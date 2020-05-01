@@ -44,7 +44,7 @@ const App = () => {
           </MenuBar>
           <MainRecipe>
             <Text title heavy>
-              Spicy Shrimp
+              Spicy Pad Thai
             </Text>
             <Divider />
             <Text bold>80 calories per 100g</Text>
